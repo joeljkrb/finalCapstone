@@ -36,4 +36,4 @@ The notebook contains detailed comments explaining each step of the analysis, as
 
 ## Credits
 
-This project was completed by Joel Kenny as part of Hyperion Dev Data Science Bootcamp. The US Arrests dataset was obtained from the Kaggle website, and the original source of the data is the US Department of Justice. 
+This project was completed by Joel Kenny as part of Hyperion Dev Data Science Bootcamp. The US Arrests dataset was obtained from the [Kaggle](https://www.kaggle.com/kurohana/usarrets) website, and the original source of the data is the US Department of Justice. 
