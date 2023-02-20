@@ -11,7 +11,6 @@ This project performs a Principal Component Analysis (PCA) and clustering analys
 -   Principal Component Analysis (PCA)
 -   Clustering Analysis
 -   Conclusion
--   References
 
 ## Installation
 
